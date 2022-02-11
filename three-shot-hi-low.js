@@ -21,7 +21,7 @@ while(guess !== random) {
         }
         if(count === 3) {
             console.log("Sorry i was thinking of:  " + random);
-           break
+           
         }
         
     }
