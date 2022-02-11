@@ -1,17 +1,3 @@
-// 1- i pick a number1   random pick
-
-// *prompt user for number (num2) to guess it
-
-// the loop should be for 2 rounds 
-// if num2 = num1  then  display you got it
-
-// else if  num2 < num1 prompt sorry too low guess again
-
-// else if num2 > num1 prompt sorry too high guess again
-
-// outside of the loop final else 
-// else   sorry i was thinking of  num1
-
 
 const prompt = require("prompt-sync")({ sigint: true })
 
